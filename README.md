@@ -1,3 +1,4 @@
 # My-Portfolio
-This is my fully responsive portfolio created using HTML, CSS &amp; Javascript
+A fully responsive portfolio website about myself containing information about my projects, skills, achievements
+etc. created using HTML, CSS &amp; Javascript
 Link: https://shubhchandak.github.io/My-Portfolio/
